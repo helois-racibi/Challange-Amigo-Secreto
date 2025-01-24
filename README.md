@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="assets/amigo-secreto.png" alt="Amigo Secreto" width="400">
+<img src="assets/Badge-Alura-Challange-javaScript.webp" alt="Badge" width="300">
 
 # Challange Amigo Secreto 
+<img src="assets/amigo-secreto.png" alt="Amigo Secreto" width="400">
   
 **Este é um Challange proposto pela Alura para colocar em pratica meu conhecimento em javaScript e GitHub.**
 
