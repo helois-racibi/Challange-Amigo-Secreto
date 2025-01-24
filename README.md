@@ -6,6 +6,8 @@
   
 **Este é um Challange proposto pela Alura para colocar em pratica meu conhecimento em javaScript e GitHub.**
 
+Nele tenho que codificar um programa que armazene nomes inseridos pelo usuario em uma lista, e através dessa lista seja possivel sortear um destes nomes aleatoriamente. O código também deve verificar se o campo estiver vazio, não o adicionando a lista, e emitindo um alerta para inserir um nome valido.
+
 ---
 
 ## Tecnologias
