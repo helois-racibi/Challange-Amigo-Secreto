@@ -1,4 +1,4 @@
-# Challange Amigo Secreto <img src="assets/amigo-secreto.png" alt="Amigo Secreto" width="300">
+# Challange Amigo Secreto <img src="assets/amigo-secreto.png" alt="Amigo Secreto" width="100">
 ![Badge ou Logo](assets/amigo-secreto.png)
 
 > Este é um Challange propsto pela Alura para colocar em pratica meu conhecimento em javaScript.
