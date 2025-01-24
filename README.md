@@ -1,14 +1,8 @@
 # Challange Amigo Secreto
-![Badge ou Logo](https://link-da-imagem.com/imagem.png)
+![Badge ou Logo](assets/amigo-secreto.png)
 
-> Uma descrição breve e chamativa sobre o projeto.
+> Este é um Challange propsto pela Alura para colocar em pratica meu conhecimento em javaScript.
 
+--- 
 
----
-
-## 🛠️ Tecnologias
-
-- ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) **HTML5**
-- ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) **CSS3**
-- ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) **JavaScript**
----
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
